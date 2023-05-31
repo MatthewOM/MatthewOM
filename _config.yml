@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Román-Palacios Lab
-description: "Cristian Román-Palacios's personal website"
+title: Matthew Lab
+description: "Matthew Owen Moreira's personal website"
 logo: 120x120.gif
 teaser: 400x250.gif
 locale: en_US
-url: https://cromanpa94.github.io/cromanpa
+url: https://MatthewOM.github.io
 
 # Jekyll configuration
 
@@ -37,13 +37,13 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Cristian Román-Palacios
-  email: cromanpa94@arizona.edu
-  bio: "Assistant professor of practice"
+  name: Matthew Owen Moreira
+  email: matthew.moreira@ua.pt
+  bio: "PhD"
   avatar: bio-photo.jpg # 160x160 px image for author byline
   google:
     plus: 
-  disqus-shortname: cromanpa94
+  disqus-shortname: MatthewOM
 
 
 exclude: ["lib", "config.rb", ".sass-cache", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "*.sublime-project", "*.sublime-workspace", "Gemfile", "Gemfile.lock", "README.md", "LICENSE", "node_modules", "Gruntfile.js", "package.json"]
