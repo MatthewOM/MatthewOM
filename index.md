@@ -2,7 +2,7 @@
 layout: home
 permalink: /
 image:
-  feature: FrogMain_right_up.jpg
+  feature: Teira_dugesii.jpg
 ---
 
 <div class="tiles">
