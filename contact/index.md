@@ -13,13 +13,12 @@ ads: false
 
 <p align="center">
   <img src="2019-11-21 10.51.14.jpg" width="50%" height="50%">  <br><br>
-  <b>Cristian Román-Palacios</b><br>
-  Assistant Professor of Practice<br>
-  University of Arizona<br>  
-  Phone: <a href="tel:+15202885856">(+1) 520-288-5856</a><br>  
-  Email: <a href="mailto:cromanpa@arizona.edu">cromanpa94@arizona.edu</a><br>  
-  Twitter: <a href="https://twitter.com/cromanpa">@cromanpa</a><br/>
-  Linkedin: <a href="https://www.linkedin.com/in/cromanpa/">Cristian Román-Palacios</a><br/>
+  <b>Matthew Owen Moreira</b><br>
+  PhD<br>
+  Universidade de Aveiro<br>  
+  Phone: <a href="tel:+152###">(+1) 520-###-###</a><br>  
+  Email: <a href="mailto:matthew.moreira@ua.pt">matthew.moreira@ua.pt</a><br>  
+  Twitter: <a href="https://twitter.com/MatthewG07">@MatthewG07</a><br/>
+  Linkedin: <a href="https://www.linkedin.com/in/MatthewOM93/">Matthew Owen Moreira</a><br/>
   Skype: live:crp-50_1<br/>
-  Mastodon: <a rel="me" href="https://ecoevo.social/@cromanpa">@cromanpa@ecoevo.social</a>
 </p>
