@@ -9,17 +9,17 @@ image:
 
 <div class="tile">
   <h2 class="post-title"  style="background-color:powderblue; text-align: center; width: 100%;" itemprop="headline">Research</h2>
-  <p class="post-excerpt" align="justify">We use statistics, bioinformatics, and machine learning to answer questions, primarily at the interface between ecology and evolution. Cristian's research interests generally relate to phylogenetics, systematics, conservation biology, and the effects of climate change on biodiversity at different scales! </p>
+  <p class="post-excerpt" align="justify"> Matthew's main interests are in ecology and evolutionary biology, macroevolution and global change, focusing on evolutionary trends, taxonomic diversity, and diversity dynamics in land vertebrates. Overall, Matthew is passionate about identifying general evolutionary patterns that may apply to all organisms. </p>
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title" style="background-color:powderblue; text-align: center; width: 100%;" itemprop="headline">Biography</h2>
-  <p class="post-excerpt" align="justify"> Cristian was born in the Colombian Andes (Armenia, Quindío) surrounded by stunning landscapes and amazing biodiversity! He received my bachelor's degree from Universidad del Valle, in Cali, Colombia and Ph.D. from the University of Arizona in Tucson, AZ. </p> 
+  <h2 class="post-title" style="background-color:powderblue; text-align: center; width: 100%;" itemprop="headline">Bio</h2>
+  <p class="post-excerpt" align="justify"> Matthew was born in Aveiro (Portugal) with portuguese (father) and english (mother) heritage. He received his BSc and MSc from the University of Aveiro (Portugal), and a joint PhD from the University of Aveiro and University of Lisbon (Portugal). </p> 
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title" style="background-color:powderblue; text-align: center; width: 100%;" itemprop="headline">Affiliations</h2>
-  <p class="post-excerpt" align="justify"> Cristian is currently an Assistant Professor of Practice at the <a href="https://ischool.arizona.edu/people/cristian-roman-palacios">School of Information at the University of Arizona</a>. He was a staff researcher at <a href="http://atripati.bol.ucla.edu/">Aradhna Tripati</a>'s lab at UCLA. I also collaborate with at least three research groups in Colombia: <a href="https://paginaiuq.wordpress.com">Biodiversidad animal</a>, <a href="https://sites.google.com/correounivalle.edu.co/gie/inicio?authuser=0">GIE</a>, and <a href="https://sites.google.com/a/correounivalle.edu.co/seyba/">SEyBA</a>.</p>
+  <p class="post-excerpt" align="justify"> Matthew is currently a PhD holder in Biology and Ecology of Global Change at <a href="http://www.cesam.ua.pt/matthewmoreira">CESAM & Department of Biology, University of Aveiro</a>, looking for postdoctoral experience. He was a research and graduate fellow at <a href="http://www.cesam.ua.pt/matthewmoreira">CESAM & Department of Biology, University of Aveiro</a>, and a visiting researcher at <a href="https://rojasdanny.wordpress.com/people/">Rojas Lab</a> at the Pontifica Universidad Javeriana Cali (Colombia) and at <a href="https://www.wienslab.com/Publications.html">Wiens Lab</a> at the University of Arizona (USA).</p>
 </div><!-- /.tile -->
 
 
