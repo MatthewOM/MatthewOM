@@ -13,7 +13,7 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title" style="background-color:powderblue; text-align: center; width: 100%;" itemprop="headline">Bio</h2>
+  <h2 class="post-title" style="background-color:powderblue; text-align: center; width: 100%;" itemprop="headline">Biography</h2>
   <p class="post-excerpt" align="justify"> Matthew was born in Aveiro (Portugal) with portuguese (father) and english (mother) heritage. He received his BSc and MSc from the University of Aveiro (Portugal), and a joint PhD from the University of Aveiro and University of Lisbon (Portugal). </p> 
 </div><!-- /.tile -->
 
