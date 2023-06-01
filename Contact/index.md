@@ -14,7 +14,7 @@ ads: false
 <p align="center">
   <img src="images/me.jpg" width="50%" height="50%">  <br><br>
   <b>Matthew Owen Moreira</b><br>
-  PhD, Universidade de Aveiro<br> 
+  PhD, University of Aveiro (Portugal)<br> 
   Email: <a href="mailto:matthew.moreira@ua.pt">matthew.moreira@ua.pt</a><br>  
   Twitter: <a href="https://twitter.com/MatthewG07">@MatthewG07</a><br/>
   Linkedin: <a href="https://www.linkedin.com/in/MatthewOM93/">Matthew Owen Moreira</a><br/>
