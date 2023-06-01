@@ -1,6 +1,6 @@
 # Site wide configuration
 
-title: Matthew Lab
+title: Matthew Website
 description: "Matthew Owen Moreira's personal website"
 logo: 120x120.gif
 teaser: 400x250.gif
@@ -41,7 +41,7 @@ owner:
   email: matthew.moreira@ua.pt
   bio: "PhD"
   avatar: bio-photo.jpg # 160x160 px image for author byline
-  google:
+  google: 
     plus: 
   disqus-shortname: MatthewOM
 
