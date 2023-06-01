@@ -19,7 +19,7 @@ share: true
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightgrey; text-align: center; width: 100%;" itemprop="headline">Danny Rojas</h2>
   <p align="justify">
-  <img src="images/Danny.jpg" width="250">  <br> <br>
+  <img src="images/placeholder.jpg" width="250">  <br> <br>
   Assistant Professor, Department of Natural Sciences and Mathematics, Pontificia Universidad Javeriana Cali (Colombia). <a href="https://rojasdanny.wordpress.com">Website</a>.
   </p>
 </div><!-- /.tile -->
@@ -27,7 +27,7 @@ share: true
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightgrey; text-align: center; width: 100%;" itemprop="headline">John Wiens</h2>
   <p align="justify">
-  <img src="images/Wiens.jpg" width="250">  <br> <br>
+  <img src="images/placeholder.jpg" width="250">  <br> <br>
   Professor, Department of Ecology & Evolutionary Biology, University of Arizona (USA). <a href="https://www.wienslab.com/Home.html">Website</a>.
   </p>
 </div><!-- /.tile -->
@@ -35,7 +35,7 @@ share: true
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightgrey; text-align: center; width: 100%;" itemprop="headline">Eduardo Ferreira</h2>
   <p align="justify">
-  <img src="images/Eduardo.png" width="250">  <br> <br>
+  <img src="images/placeholder.png" width="250">  <br> <br>
   Assistant Researcher, CESAM & Department of Biology, University of Aveiro (Portugal). <a href="https://www.cienciavitae.pt/portal/en/581B-7ED8-3A0F">Website</a>.
   </p>
 </div><!-- /.tile -->
@@ -43,7 +43,7 @@ share: true
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightgrey; text-align: center; width: 100%;" itemprop="headline">Carlos Fonseca</h2>
   <p align="justify">
-  <img src="images/Carlos.jpg" width="250">  <br> <br>
+  <img src="images/placeholder.jpg" width="250">  <br> <br>
   Associate Professor, Department of Biology, University of Aveiro (Portugal). <a href="https://www.cienciavitae.pt/portal/en/8610-54AB-874A">Website</a>.
   </p>
 </div><!-- /.tile -->
