@@ -19,7 +19,11 @@ Loading....
 ## 2023
 
 ### June 2023
-- The high-altitude lizards' manuscript was accepted at Ecological Research.
+- High-altitude' paper with Danny Rojas and Carlos Fonseca accepted.
+
+### May 2023
+- Submitted my CEEC (6th edition) application.
+- First time as a member of a committee. Congratulations Valentina!
 
 ### March 2023
 - I passed my Doctoral oral examination.
