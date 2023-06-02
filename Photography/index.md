@@ -22,13 +22,13 @@ Loading...
 
 <div class="tile">
   <p align="center">
-  <img src="images/spiny.jpg" width="100%">  <br> <br>
+  <img src="herps/spiny.jpg" width="100%">  <br> <br>
     <i>Sceloporus magister</i>
   </p>
 </div><!-- /.tile -->
 <div class="tile">
   <p align="center">
-  <img src="images/chalcides.jpg" width="100%">  <br> <br>
+  <img src="herps/chalcides.jpg" width="100%">  <br> <br>
     <i>Chalcides striatus</i>
   </p>
 </div><!-- /.tile -->
