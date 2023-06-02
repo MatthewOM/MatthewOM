@@ -13,4 +13,7 @@ share: true
 comments: true
 ---
 
-Please use the following links for some [News highlights](lab.md) and [Outreach activities](media.md).
+#### Please use the following links for:
+
+  **· [News highlights](lab.md)**
+  **· [Outreach activities](media.md)**
