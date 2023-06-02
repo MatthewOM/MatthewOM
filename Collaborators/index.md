@@ -18,7 +18,7 @@ share: true
 
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline">Danny Rojas</h2>
-  <p align="left">
+  <p align="center">
   <img src="images/placeholder.jpg" width="250">  <br> <br>
   Assistant Professor, Department of Natural Sciences and Mathematics, Pontificia Universidad Javeriana Cali (Colombia). <a href="https://rojasdanny.wordpress.com">Website</a>.
   </p>
@@ -34,7 +34,7 @@ share: true
 
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline">Eduardo Ferreira</h2>
-  <p align="justify">
+  <p align="center">
   <img src="images/placeholder.jpg" width="250">  <br> <br>
   Assistant Researcher, CESAM & Department of Biology, University of Aveiro (Portugal). <a href="https://www.cienciavitae.pt/portal/en/581B-7ED8-3A0F">Website</a>.
   </p>
@@ -42,7 +42,7 @@ share: true
 
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline">Carlos Fonseca</h2>
-  <p align="justify">
+  <p align="center">
   <img src="images/placeholder.jpg" width="250">  <br> <br>
   Associate Professor, Department of Biology, University of Aveiro (Portugal). <a href="https://www.cienciavitae.pt/portal/en/8610-54AB-874A">Website</a>.
   </p>
