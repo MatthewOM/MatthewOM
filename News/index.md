@@ -15,5 +15,6 @@ comments: true
 
 #### Please use the following links for:
 
-  **· [News highlights](lab.md)**
-  **· [Outreach activities](media.md)**
+  · [News highlights](lab.md)
+  
+  · [Outreach activities](media.md)
