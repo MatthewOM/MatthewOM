@@ -1,4 +1,4 @@
 # Personal website!
 
-Find it here: http://MatthewOM.github.io/MatthewOM/
+Find it here: http://MatthewOM.github.io
 
