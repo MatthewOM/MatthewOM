@@ -15,10 +15,7 @@ share: false
 
 ## Brief research statement
 
-I am an Ecologist and Evolutionary biologist interested in solving long-standing questions in biology using bioinformatic methods applied to large-scale datasets. My research interests range from conservation biology, field ecology to molecular phylogenetics, and biostatistics. I am also interested in fundamental aspects of biology including natural history, taxonomy, and systematics. I have published more than 30 papers on evolutionary biology, conservation biology, ecology, biostatistics, and climate change. Several of my papers were published in the journals PNAS, Proceedings B, Evolution, Journal of Biogeography, Evolution Letters, and Global Ecology and Biogeography.  Several have been featured in F1000, Science and many general news outlets including CNN, USA Today, Daily Mail, and The Independent. My research has also attracted the attention of politicians strongly committed to climate change and conservation, and school kids interested in knowing more about biology! 
-
-Thanks for visiting my website and reading my papers!
-
+Loading...
 
 ## Peer-reviewed articles
 
@@ -66,14 +63,6 @@ Thanks for visiting my website and reading my papers!
         <td><div data-badge-type="donut" data-doi="10.1002/ecy.2404" data-hide-no-mentions="true" class="altmetric-embed"></div></td>
     </tr>
 </table>
-
-## Non-peer-reviewed articles
-
-| # | Year | Document | Link |
-|:-:|:-:|:-:|:-:|
-| **2** | 2017 | **Cristian Román-Palacios**. *P-valores, alpha y beta: ¿Cuanto nos equivocamos en Biologia?*. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 3:24-26. | [PDF](Roman-Palacios_2017_stat.pdf) |
-| **1** | 2016 | **Cristian Román-Palacios**. *¿Conservan las áreas protegidas la biodiversidad en Colombia?*. Boletin del Posgrado en Ciencias Biologia. Universidad del Valle, 2:79-82. | [PDF](Roman-Palacios_2016_Areas_Protegidas.pdf) |
-
 
 ### Copyright Notice
 These documents are protected by various copyright laws. However, I may distribute copies to individuals for personal, research use. Your click on any of the PDF links above constitutes your request for a personal copy of the linked article and my delivery of a personal copy. Any other use or distribution is prohibited. These are provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis.
