@@ -47,7 +47,35 @@ Loading...
     <i>Crotalus willardi</i>
   </p>
 </div><!-- /.tile -->
- 
+
+<div class="tile">
+  <p align="center">
+  <img src="herps/teira.jpg" width="150%">  <br> <br>
+    <i>Teira dugesii</i>
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <p align="center">
+  <img src="herps/tarentola.jpg" width="150%">  <br> <br>
+    <i>Tarentola mauritanica</i>
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <p align="center">
+  <img src="herps/anolis.jpg" width="150%">  <br> <br>
+    <i>Anolis ventrimaculatus</i>
+  </p>
+</div><!-- /.tile -->
+  
+<div class="tile">
+  <p align="center">
+  <img src="herps/eleuthero.jpg" width="150%">  <br> <br>
+    <i>Eleutherodactylus johnstonei</i>
+  </p>
+</div><!-- /.tile -->
+
 </div><!-- /.tiles -->
 
 <br> <br> <br> <br>
