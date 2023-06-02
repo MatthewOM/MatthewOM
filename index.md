@@ -28,7 +28,7 @@ image:
  
 <div class="tile">
   <h2 class="post-title" style="background-color:Transparent; text-align: center; width: 450%;" itemprop="headline">Recent visitors!</h2>
-  <p class="post-excerpt" align="justify">
+  <p class="post-excerpt" style="width:450%" align="justify">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=C-bo1JQjDS9PiWWVWama2zri1d2MGHgL7vuJ2y6UhxI&cl=ffffff&w=a"></script>
 </p>
 </div><!-- /.tile -->
