@@ -13,4 +13,4 @@ share: true
 comments: true
 ---
 
-Loading....
+Please use the following links for some [News highlights](lab.md) and [Outreach](media.md).
