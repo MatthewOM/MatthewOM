@@ -22,18 +22,20 @@ Loading...
 
 <div class="tile">
   <p align="center">
-  <img src="herps/spiny.jpg" width="50%">  <br> <br>
+  <img src="herps/spiny.jpg" width="75%">  <br> <br>
     <i>Sceloporus magister</i>
   </p>
 </div><!-- /.tile -->
 <div class="tile">
   <p align="center">
-  <img src="herps/chalcides.jpg" width="50%">  <br> <br>
+  <img src="herps/chalcides.jpg" width="75%">  <br> <br>
     <i>Chalcides striatus</i>
   </p>
 </div><!-- /.tile -->
   
 </div><!-- /.tiles -->
+
+<br> <br> <br> <br>
 
 ## Hummingbirds
 
