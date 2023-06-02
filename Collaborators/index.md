@@ -27,7 +27,7 @@ share: true
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline">John Wiens</h2>
   <p align="center">
-  <img src="images/placeholder.jpg" width="250">  <br> <br>
+  <img src="images/Wiens.jpg" width="250">  <br> <br>
   Professor, Department of Ecology & Evolutionary Biology, University of Arizona (USA). <a href="https://www.wienslab.com/Home.html">Website</a>.
   </p>
 </div><!-- /.tile -->
