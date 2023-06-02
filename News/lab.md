@@ -26,7 +26,7 @@ Loading....
 - First time as a member of a committee. Congratulations Valentina!
 
 ### March 2023
-- I passed my Doctoral oral examination.
+- Officially Dr. Matthew Moreira.
 
 ## 2022
 
