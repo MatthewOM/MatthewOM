@@ -21,11 +21,11 @@ Loading...
 
 <table>
     <tr>
-        <td>#</td>
-        <td>Year</td>
-        <td>Paper</td>
-        <td>Link</td>
-        <td>Coverage</td>
+        <td><b>#</b></td>
+        <td><b>Year</b></td>
+        <td><b>Paper</b></td>
+        <td><b>Link</b></td>
+        <td><b>Coverage</b></td>
     </tr>
           <tr>
         <td>5</td>
