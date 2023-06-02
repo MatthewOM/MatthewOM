@@ -26,6 +26,7 @@ Loading...
     <i>Sceloporus magister</i>
   </p>
 </div><!-- /.tile -->
+ 
 <div class="tile">
   <p align="center">
   <img src="herps/chalcides.jpg" width="150%">  <br> <br>
@@ -33,6 +34,13 @@ Loading...
   </p>
 </div><!-- /.tile -->
   
+<div class="tile">
+  <p align="center">
+  <img src="herps/crotalus.jpg" width="150%">  <br> <br>
+    <i>Crotalus sp.</i>
+  </p>
+</div><!-- /.tile -->
+ 
 </div><!-- /.tiles -->
 
 <br> <br> <br> <br>
