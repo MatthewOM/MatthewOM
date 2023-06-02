@@ -21,9 +21,9 @@ Loading...
 <div class="tiles">
 
 <div class="tile">
-  <p align="center">
-  <img src="images/Danny.jpg" width="250">  <br> <br>
-  Assistant Professor, Department of Natural Sciences and Mathematics, Pontificia Universidad Javeriana Cali (Colombia). <a href="https://rojasdanny.wordpress.com">Website</a>.
+  <p align="left">
+  <img src="images/spiny.jpg" width="100%">  <br> <br>
+    <i>Sceloporus magister</i>
   </p>
 </div><!-- /.tile -->
 </div><!-- /.tiles -->
