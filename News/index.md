@@ -13,7 +13,4 @@ share: true
 comments: true
 ---
 
-Please follow the links below for information on
-
-- ["Lab" news!](lab.md)
-- [Media coverage!](media.md)
+Loading....
