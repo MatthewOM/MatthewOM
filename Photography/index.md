@@ -16,12 +16,22 @@ Loading...
 
 {% include toc.html %}
 
-## Non-avian reptiles
+## Herps
+
+<div class="tiles">
+
+<div class="tile">
+  <p align="center">
+  <img src="images/Danny.jpg" width="250">  <br> <br>
+  Assistant Professor, Department of Natural Sciences and Mathematics, Pontificia Universidad Javeriana Cali (Colombia). <a href="https://rojasdanny.wordpress.com">Website</a>.
+  </p>
+</div><!-- /.tile -->
+</div><!-- /.tiles -->
 
 ## Hummingbirds
 
 ## Invertebrates
 
-## Fish
+## Bats
 
 ## Landscape
