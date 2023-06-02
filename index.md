@@ -9,12 +9,12 @@ image:
 
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline">Research</h2>
-  <p class="post-excerpt" align="justify"> My main interests are in ecology and evolutionary biology, macroevolution and global change, focusing on evolutionary trends, taxonomic diversity, and diversity dynamics in land vertebrates. Overall, I am passionate about identifying general evolutionary patterns that may apply to all organisms. </p>
+  <p class="post-excerpt" align="left"> My main interests are in ecology and evolutionary biology, macroevolution and global change, focusing on evolutionary trends, taxonomic diversity, and diversity dynamics in land vertebrates. Overall, I am passionate about identifying general evolutionary patterns that may apply to all organisms. </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <h2 class="post-title" style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline">Biography</h2>
-  <p class="post-excerpt" align="justify"> I was born and raised in Aveiro (Portugal) with portuguese (father) and english (mother) heritage. I received my BSc and MSc from the University of Aveiro (Portugal), and a joint PhD from the University of Aveiro and University of Lisbon (Portugal). </p> 
+  <p class="post-excerpt" align="center"> I was born and raised in Aveiro (Portugal) with portuguese (father) and english (mother) heritage. I received my BSc and MSc from the University of Aveiro (Portugal), and a joint PhD from the University of Aveiro and University of Lisbon (Portugal). </p> 
 </div><!-- /.tile -->
 
 <div class="tile">
