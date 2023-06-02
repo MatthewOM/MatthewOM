@@ -21,11 +21,18 @@ Loading...
 <div class="tiles">
 
 <div class="tile">
-  <p align="left">
+  <p align="center">
   <img src="images/spiny.jpg" width="100%">  <br> <br>
     <i>Sceloporus magister</i>
   </p>
 </div><!-- /.tile -->
+<div class="tile">
+  <p align="center">
+  <img src="images/chalcides.jpg" width="100%">  <br> <br>
+    <i>Chalcides striatus</i>
+  </p>
+</div><!-- /.tile -->
+  
 </div><!-- /.tiles -->
 
 ## Hummingbirds
