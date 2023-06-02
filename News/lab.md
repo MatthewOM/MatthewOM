@@ -18,6 +18,9 @@ Loading....
 
 ## 2023
 
+### June 2023
+- The high-altitude lizards' manuscript was accepted at Ecological Research.
+
 ### March 2023
 - I passed my Doctoral oral examination.
 
