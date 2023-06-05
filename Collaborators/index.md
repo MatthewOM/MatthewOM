@@ -43,7 +43,7 @@ share: true
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline">Carlos Fonseca</h2>
   <p align="center">
-  <img src="images/placeholder.jpg" width="250">  <br> <br>
+  <img src="images/Carlos.jpg" width="250">  <br> <br>
   Associate Professor, Department of Biology, University of Aveiro (Portugal). <a href="https://www.cienciavitae.pt/portal/en/8610-54AB-874A">Website</a>.
   </p>
 </div><!-- /.tile -->
