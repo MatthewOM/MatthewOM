@@ -266,3 +266,71 @@ share: true
 <br> <br> <br> <br>
 
 ## Other
+
+<div class="tiles">
+
+<div class="tile">
+  <p align="center">
+  <img src="other/atta.jpg" width="150%">  <br>
+    Leafcutter Ant<br>
+    -<i>Atta sp.</i>-
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <p align="center">
+  <img src="other/clown.jpg" width="150%">  <br>
+    Clown Grasshopper<br>
+    -<i>Paramastax rosenbergi</i>-
+  </p>
+</div><!-- /.tile -->
+ 
+<div class="tile">
+  <p align="center">
+  <img src="other/owl.jpg" width="150%">  <br>
+    Owl Butterfly<br>
+    -<i>Saligo sp.</i>-
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <p align="center">
+  <img src="other/pride.jpg" width="150%">  <br>
+    Pride of Madeira<br>
+    -<i>Echium candicans</i>-
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <p align="center">
+  <img src="other/ixora.jpg" width="150%">  <br>
+    Jungle Geranium<br>
+    -<i>Ixora coccinea</i>-
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <p align="center">
+  <img src="other/mysore.jpg" width="150%">  <br>
+    Mysore Trumpetvine<br>
+    -<i>Thunbergia mysorensis</i>-
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <p align="center">
+  <img src="other/wisteria.jpg" width="150%">  <br>
+    American Wisteria<br>
+    -<i>Wisteria frutescens</i>-
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <p align="center">
+  <img src="other/elephant.jpg" width="150%">  <br>
+    Arrowleaf Elephant's Ear<br>
+    -<i>Xanthosoma sagittifolium</i>-
+  </p>
+</div><!-- /.tile -->
+ 
+</div><!-- /.tiles -->
