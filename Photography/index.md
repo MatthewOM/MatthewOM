@@ -89,15 +89,47 @@ share: true
 
 <br> <br> <br> <br>
 
-## Hummingbirds
+## Flying vertebrates
 
 <div class="tiles">
+
+<div class="tile">
+  <p align="center">
+  <img src="humm/fruit.jpg" width="150%">  <br>
+    Indian Flying Fox<br>
+    -<i>Pteropus medius</i>-
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <p align="center">
+  <img src="humm/condor.jpg" width="150%">  <br>
+    Andean Condor<br>
+    -<i>Vultur gryphus</i>-
+  </p>
+</div><!-- /.tile -->
 
 <div class="tile">
   <p align="center">
   <img src="humm/florisuga.jpg" width="150%">  <br>
     White-Necked Jacobin<br>
     -<i>Florisuga mellivora</i>-
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <p align="center">
+  <img src="humm/impera.jpg" width="150%">  <br>
+    Empress Brilliant<br>
+    -<i>Heliodoxa imperatrix</i>-
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <p align="center">
+  <img src="humm/guy.jpg" width="150%">  <br>
+    Green Hermit<br>
+    -<i>Phaetornis guy</i>-
   </p>
 </div><!-- /.tile -->
 
@@ -128,22 +160,6 @@ share: true
 </div><!-- /.tiles -->
 
 <br> <br> <br> <br>
-
-## Bats
-
-<div class="tiles">
-
-<div class="tile">
-  <p align="center">
-  <img src="bats/fruit.jpg" width="150%">  <br>
-    Indian Flying Fox<br>
-    -<i>Pteropus medius</i>-
-  </p>
-</div><!-- /.tile -->
-
-</div><!-- /.tiles -->
-
-<br> <br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 
 ## Invertebrates
 
