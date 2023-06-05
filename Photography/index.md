@@ -12,6 +12,8 @@ image:
 share: true
 ---
 
+### Copyright
+
 © Matthew Moreira
 
 {% include toc.html %}
@@ -149,9 +151,3 @@ share: true
 <br> <br> <br> <br>
 
 ## Landscape
-
-<br> <br> <br> <br>
-
-## Copyright notice
-
-Loading...
