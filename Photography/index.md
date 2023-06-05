@@ -95,7 +95,7 @@ Loading...
 <div class="tile">
   <p align="center">
   <img src="humm/thalurania.jpg" width="150%">  <br> <br>
-    Crowned Woodnymph (<i>Thalurania colombica fannyae</i>)
+    Crowned Woodnymph (<i>Thalurania colombica</i>)
   </p>
 </div><!-- /.tile -->
 
