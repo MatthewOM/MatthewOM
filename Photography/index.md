@@ -104,7 +104,7 @@ share: true
 <div class="tile">
   <p align="center">
   <img src="land/usa6.jpg" width="150%">  <br>
-    El Capitane, Yosemite<br>
+    El Capitan, Yosemite<br>
     -California, USA-
   </p>
 </div><!-- /.tile -->
