@@ -107,8 +107,23 @@ Loading...
 
 </div><!-- /.tiles -->
 
+<br> <br> <br> <br>
+
 ## Invertebrates
 
 ## Bats
+
+<div class="tiles">
+
+<div class="tile">
+  <p align="center">
+  <img src="bats/fruit.jpg" width="150%">  <br> <br>
+    Indian Flying Fox (<i>Pteropus medius</i>)
+  </p>
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->
+
+<br> <br> <br> <br>
 
 ## Landscape
