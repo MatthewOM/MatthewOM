@@ -22,7 +22,7 @@ Loading...
 
 <div class="tile">
   <p align="center">
-  <img src="herps/anolis.jpg" width="150%">  <br> <br>
+  <img src="herps/anolis.jpg" width="150%">  <br>
     Speckled Anole
     (<i>Anolis ventrimaculatus</i>)
   </p>
@@ -30,7 +30,7 @@ Loading...
   
 <div class="tile">
   <p align="center">
-  <img src="herps/chalcides.jpg" width="150%">  <br> <br>
+  <img src="herps/chalcides.jpg" width="150%">  <br>
     Iberian Three-Toed Skink
     (<i>Chalcides striatus</i>)
   </p>
@@ -38,7 +38,7 @@ Loading...
   
 <div class="tile">
   <p align="center">
-  <img src="herps/crotalus.jpg" width="150%">  <br> <br>
+  <img src="herps/crotalus.jpg" width="150%">  <br>
     Juvenile Rattlesnake
     (<i>Crotalus sp.</i>)
   </p>
@@ -46,7 +46,7 @@ Loading...
  
 <div class="tile">
   <p align="center">
-  <img src="herps/crotalus2.jpg" width="150%">  <br> <br>
+  <img src="herps/crotalus2.jpg" width="150%">  <br>
     Ridge-Nosed Rattlesnake
     (<i>Crotalus willardi</i>)
   </p>
@@ -54,7 +54,7 @@ Loading...
 
 <div class="tile">
   <p align="center">
-  <img src="herps/eleuthero.jpg" width="150%">  <br> <br>
+  <img src="herps/eleuthero.jpg" width="150%">  <br>
     Johnstone's Whistling Frog
     (<i>Eleutherodactylus johnstonei</i>)
   </p>
@@ -62,7 +62,7 @@ Loading...
 
 <div class="tile">
   <p align="center">
-  <img src="herps/spiny.jpg" width="150%">  <br> <br>
+  <img src="herps/spiny.jpg" width="150%">  <br>
     Desert Spiny Lizard
     (<i>Sceloporus magister</i>)
   </p>
@@ -70,7 +70,7 @@ Loading...
  
 <div class="tile">
   <p align="center">
-  <img src="herps/tarentola.jpg" width="150%">  <br> <br>
+  <img src="herps/tarentola.jpg" width="150%">  <br>
     Moorish Gecko
     (<i>Tarentola mauritanica</i>)
   </p>
@@ -78,7 +78,7 @@ Loading...
 
 <div class="tile">
   <p align="center">
-  <img src="herps/teira.jpg" width="150%">  <br> <br>
+  <img src="herps/teira.jpg" width="150%">  <br>
     Madeira Wall Lizard
     (<i>Teira dugesii</i>)
   </p>
@@ -115,7 +115,7 @@ Loading...
 
 </div><!-- /.tiles -->
 
-<br> <br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 
 ## Invertebrates
 
@@ -132,6 +132,6 @@ Loading...
 
 </div><!-- /.tiles -->
 
-<br> <br> <br> <br> <br> <br> <br> <br>
+<br> <br> <br> <br> <br> <br> <br> <br> <br> <br>
 
 ## Landscape
