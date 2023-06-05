@@ -80,7 +80,7 @@ share: true
 <div class="tile">
   <p align="center">
   <img src="land/usa3.jpg" width="150%">  <br>
-    Panamint Springs, Death Valley<br>
+    Panamint, Death Valley<br>
     -California, USA-
   </p>
 </div><!-- /.tile -->
@@ -88,7 +88,7 @@ share: true
 <div class="tile">
   <p align="center">
   <img src="land/usa4.jpg" width="150%">  <br>
-    Badwater Basin, Death Valley<br>
+    Badwater, Death Valley<br>
     -California, USA-
   </p>
 </div><!-- /.tile -->
