@@ -22,57 +22,57 @@ Loading...
 
 <div class="tile">
   <p align="center">
-  <img src="herps/spiny.jpg" width="150%">  <br> <br>
-    <i>Sceloporus magister</i>
+  <img src="herps/anolis.jpg" width="150%">  <br> <br>
+    Speckled Anole (<i>Anolis ventrimaculatus</i>)
   </p>
 </div><!-- /.tile -->
- 
+  
 <div class="tile">
   <p align="center">
   <img src="herps/chalcides.jpg" width="150%">  <br> <br>
-    <i>Chalcides striatus</i>
+    Iberian Three-Toed Skink(<i>Chalcides striatus</i>)
   </p>
 </div><!-- /.tile -->
   
 <div class="tile">
   <p align="center">
   <img src="herps/crotalus.jpg" width="150%">  <br> <br>
-    <i>Crotalus sp.</i>
+    Juvenile Rattlesnake (<i>Crotalus sp.</i>)
   </p>
 </div><!-- /.tile -->
  
 <div class="tile">
   <p align="center">
   <img src="herps/crotalus2.jpg" width="150%">  <br> <br>
-    <i>Crotalus willardi</i>
+    Ridge-Nosed Rattlesnake (<i>Crotalus willardi</i>)
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <p align="center">
+  <img src="herps/eleuthero.jpg" width="150%">  <br> <br>
+    Johnstone's Whistling Frog (<i>Eleutherodactylus johnstonei</i>)
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <p align="center">
+  <img src="herps/spiny.jpg" width="150%">  <br> <br>
+    Desert Spiny Lizard (<i>Sceloporus magister</i>)
+  </p>
+</div><!-- /.tile -->
+ 
+<div class="tile">
+  <p align="center">
+  <img src="herps/tarentola.jpg" width="150%">  <br> <br>
+    Moorish Gecko (<i>Tarentola mauritanica</i>)
   </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <p align="center">
   <img src="herps/teira.jpg" width="150%">  <br> <br>
-    <i>Teira dugesii</i>
-  </p>
-</div><!-- /.tile -->
-
-<div class="tile">
-  <p align="center">
-  <img src="herps/tarentola.jpg" width="150%">  <br> <br>
-    <i>Tarentola mauritanica</i>
-  </p>
-</div><!-- /.tile -->
-
-<div class="tile">
-  <p align="center">
-  <img src="herps/anolis.jpg" width="150%">  <br> <br>
-    <i>Anolis ventrimaculatus</i>
-  </p>
-</div><!-- /.tile -->
-  
-<div class="tile">
-  <p align="center">
-  <img src="herps/eleuthero.jpg" width="150%">  <br> <br>
-    <i>Eleutherodactylus johnstonei</i>
+    Madeira Wall Lizard (<i>Teira dugesii</i>)
   </p>
 </div><!-- /.tile -->
 
@@ -81,6 +81,31 @@ Loading...
 <br> <br> <br> <br>
 
 ## Hummingbirds
+
+<div class="tiles">
+
+<div class="tile">
+  <p align="center">
+  <img src="humm/thalurania.jpg" width="150%">  <br> <br>
+    Crowned Woodnymph (<i>Thalurania colombica fannyae</i>)
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <p align="center">
+  <img src="humm/urochroa.jpg" width="150%">  <br> <br>
+    Rufous-Gaped Hillstar (<i>Urochroa bougueri</i>)
+  </p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <p align="center">
+  <img src="humm/urochroa2.jpg" width="150%">  <br> <br>
+    Rufous-Gaped Hillstar (<i>Urochroa bougueri</i>)
+  </p>
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->
 
 ## Invertebrates
 
