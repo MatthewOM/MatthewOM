@@ -12,7 +12,7 @@ image:
 share: true
 ---
 
-Loading...
+© Matthew Moreira
 
 {% include toc.html %}
 
