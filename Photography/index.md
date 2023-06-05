@@ -12,11 +12,10 @@ image:
 share: true
 ---
 
-### Copyright
-
-© Matthew Moreira
-
 {% include toc.html %}
+
+#### Copyright
+© Matthew Moreira
 
 ## Herps
 
