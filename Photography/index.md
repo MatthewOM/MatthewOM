@@ -23,56 +23,64 @@ Loading...
 <div class="tile">
   <p align="center">
   <img src="herps/anolis.jpg" width="150%">  <br> <br>
-    Speckled Anole (<i>Anolis ventrimaculatus</i>)
+    Speckled Anole
+    (<i>Anolis ventrimaculatus</i>)
   </p>
 </div><!-- /.tile -->
   
 <div class="tile">
   <p align="center">
   <img src="herps/chalcides.jpg" width="150%">  <br> <br>
-    Iberian Three-Toed Skink(<i>Chalcides striatus</i>)
+    Iberian Three-Toed Skink
+    (<i>Chalcides striatus</i>)
   </p>
 </div><!-- /.tile -->
   
 <div class="tile">
   <p align="center">
   <img src="herps/crotalus.jpg" width="150%">  <br> <br>
-    Juvenile Rattlesnake (<i>Crotalus sp.</i>)
+    Juvenile Rattlesnake
+    (<i>Crotalus sp.</i>)
   </p>
 </div><!-- /.tile -->
  
 <div class="tile">
   <p align="center">
   <img src="herps/crotalus2.jpg" width="150%">  <br> <br>
-    Ridge-Nosed Rattlesnake (<i>Crotalus willardi</i>)
+    Ridge-Nosed Rattlesnake
+    (<i>Crotalus willardi</i>)
   </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <p align="center">
   <img src="herps/eleuthero.jpg" width="150%">  <br> <br>
-    Johnstone's Whistling Frog (<i>Eleutherodactylus johnstonei</i>)
+    Johnstone's Whistling Frog
+    (<i>Eleutherodactylus johnstonei</i>)
   </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <p align="center">
   <img src="herps/spiny.jpg" width="150%">  <br> <br>
-    Desert Spiny Lizard (<i>Sceloporus magister</i>)
+    Desert Spiny Lizard
+    (<i>Sceloporus magister</i>)
   </p>
 </div><!-- /.tile -->
  
 <div class="tile">
   <p align="center">
   <img src="herps/tarentola.jpg" width="150%">  <br> <br>
-    Moorish Gecko (<i>Tarentola mauritanica</i>)
+    Moorish Gecko
+    (<i>Tarentola mauritanica</i>)
   </p>
 </div><!-- /.tile -->
 
 <div class="tile">
   <p align="center">
   <img src="herps/teira.jpg" width="150%">  <br> <br>
-    Madeira Wall Lizard (<i>Teira dugesii</i>)
+    Madeira Wall Lizard
+    (<i>Teira dugesii</i>)
   </p>
 </div><!-- /.tile -->
 
