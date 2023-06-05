@@ -24,7 +24,7 @@ Loading...
   <p align="center">
   <img src="herps/anolis.jpg" width="150%">  <br>
     Speckled Anole<br>
-    (<i>Anolis ventrimaculatus</i>)
+    -<i>Anolis ventrimaculatus</i>-
   </p>
 </div><!-- /.tile -->
   
