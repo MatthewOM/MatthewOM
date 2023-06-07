@@ -30,13 +30,13 @@ share: true
 - Still awaiting for the PhD committee...
 - The Grinnellian niche manuscript was recommended pending full revision.
 - The high-altitude manuscript was recommended pending revisions.
-- Just finished evaluating the BSc degree in <i>Biology</i> from the Instituto Superior de Agronomia of the University of Lisbon.
+- Just finished evaluating the BSc degree in <i>Biology</i> from the Instituto Superior de Agronomia of the University of Lisbon-Portugal.
 
 ## 2022
 
 ### Winter 2022
 - Awaiting the nomination of the members of the PhD committee.
-- Just finished evaluating the joint PhD degree in <i>Biodiversity, Genetics and Evolution</i> from the Faculdade de Ciências of the University of Porto and University of Lisbon.
+- Just finished evaluating the joint PhD degree in <i>Biodiversity, Genetics and Evolution</i> from the Faculdade de Ciências of the University of Porto and University of Lisbon-Portugal.
 
 ### Fall 2022
 - The high-altitude manuscript was rejected (3x) and resubmitted to a different journal.
