@@ -28,8 +28,8 @@ share: true
 
 ### Winter 2023
 - Still awaiting for the PhD committee...
-- The Grinnellian niche manuscript was recommended after full revision.
-- The high-altitude manuscript was recommended after revisions.
+- The Grinnellian niche manuscript was recommended pending full revision.
+- The high-altitude manuscript was recommended pending revisions.
 
 ## 2022
 
@@ -60,14 +60,14 @@ share: true
 
 ### Fall 2021
 - Resubmitted the <i>ES-sim</i>-GLM manuscript after revisions.
-- The <i>ES-sim</i>-GLM manuscript was recommended after revisions.
+- The <i>ES-sim</i>-GLM manuscript was recommended pending revisions.
 
 ### Summer 2021
 - The physiology paper is available online in <i>Evolution Letters</i>.
 - The physiology paper with Yan-Fu Qu and John Wiens was accepted in <i>Evolution Letters</i>.
 - The <i>ES-sim</i>-GLM manuscript was rejected (1x) and resubmitted to a different journal.
 - Resubmitted the physiology manuscript after revisions.
-- The physiology manuscript was recommended after major revision.
+- The physiology manuscript was recommended pending major revision.
 - The <i>ES-sim</i>-GLM manuscript was 1st submitted.
 
 ### Spring 2021
@@ -78,7 +78,7 @@ share: true
 - Resubmitted the parthenogenesis manuscript after revisions.
 
 ### Winter 2021
-- The parthenogenesis manuscript was recommended after further revisions.
+- The parthenogenesis manuscript was recommended pending further revisions.
 - Resubmitted the parthenogenesis manuscript after major revision.
 - The physiology manuscript was rejected (2x) and resubmitted to a different journal.
 
@@ -124,7 +124,7 @@ share: true
 
 ### Summer 2017
 - Interviewed at the University of Lisbon...
-- The neotropical bats distribution maps manuscript was recommended after revisions.
+- The neotropical bats distribution maps manuscript was recommended pending revisions.
 - The neotropical bats distribution maps manuscript was 1st submitted.
 - Selected for the interview process for the FCT fellowships.
 
