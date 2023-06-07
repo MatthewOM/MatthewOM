@@ -90,7 +90,7 @@ share: true
 - The physiology manuscript was rejected (4x) and resubmitted to a different journal.
 - The physiology manuscript was rejected (3x) and resubmitted to a different journal.
 - Resubmitted the parthenogenesis manuscript after revisions.
-- Officially a student evaluator for the <i>Agency for Assessment and Accreditation of Higher Education</i> [A3ES](https://a3es.pt).
+- Officially a student evaluator for the <i>Agency for Assessment and Accreditation of Higher Education</i>-[A3ES](https://a3es.pt).
 
 ### Winter 2021
 - The parthenogenesis manuscript was recommended pending further revisions.
