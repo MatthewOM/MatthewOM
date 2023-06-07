@@ -12,7 +12,7 @@ ads: false
 ---
 
 <p align="center">
-  <img src="images/me.jpg" width="50%" height="50%">  <br><br>
+  <img src="images/me_circular.jpg" width="50%" height="50%">  <br><br>
   <b>Matthew Owen Moreira</b><br>
   PhD, University of Aveiro (Portugal)<br> 
   Email: <a href="mailto:matthew.moreira@ua.pt">matthew.moreira@ua.pt</a><br>  
