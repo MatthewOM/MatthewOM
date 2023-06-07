@@ -35,7 +35,7 @@ share: true
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline">Eduardo Ferreira</h2>
   <p align="center">
-  <img src="images/placeholder.jpg" width="250">  <br> <br>
+  <img src="images/Eduardo.jpg" width="250">  <br> <br>
   Assistant Researcher, CESAM & Department of Biology, University of Aveiro (Portugal). <a href="https://www.cienciavitae.pt/portal/en/581B-7ED8-3A0F">Website</a>.
   </p>
 </div><!-- /.tile -->
