@@ -67,7 +67,7 @@ share: true
 - Back home from Cali-Colombia.
 - Invited talk at the <i>Webinar Seminario Permanente</i>-Colombia.
 - Invited talk at the <i>Webinar Students Biology Program</i>–Colombia.
-- Travelling to Cali (Colombia) for a 18-day visiting researcher' experience at [Rojas lab](https://rojasdanny.wordpress.com).
+- Travelling to Cali (Colombia) for a 18-day visiting researcher' experience at the [Rojas lab](https://rojasdanny.wordpress.com).
 
 ### Fall 2021
 - Resubmitted the <i>ES-sim</i>-GLM manuscript after revisions.
@@ -117,7 +117,7 @@ share: true
 
 ### Spring 2020
 - Due to COVID, my PhD fellowship got extended until February 2022.
-- Got funded by <i>AUIP</i>.
+- Got funded by [AUIP](https://www.auip.org/pt/).
 
 ## 2019
 
@@ -129,18 +129,18 @@ share: true
 - The Grinnellian niche manuscript was rejected (1x) and requires major overhaul.
 - The Grinnellian niche manuscript was 1st submitted.
 - Poster at the <i>I PhD Meeting in Biology and Ecology of Global Changes</i>-Portugal.
-- Became a member of the [Associação Portuguesa de Biologia Evolutiva](https://apbe.weebly.com).
+- Became a member of the <i>Associação Portuguesa de Biologia Evolutiva</i>–[APBE](https://apbe.weebly.com).
 - Became the PhD students representative.
-- Applied for a mobility grant from <i>Asociación Universitaria Iberoamericana de Postgrado</i> (AUIP).
+- Applied for a mobility grant from <i>Asociación Universitaria Iberoamericana de Postgrado</i>-[AUIP](https://www.auip.org/pt/).
 - Back home from Arizona-USA.
-- Got funded by <i>Fulbright Specialist Program</i>.
+- Got funded by [Fulbright Specialist Program](https://fulbrightspecialist.worldlearning.org).
 
 ### Summer 2019
 - Awarded a merit-based scholarship by the University of Aveiro regarding my second year as a master’s student.
-- Applied for a <i>Fulbright Specialist Program</i>.
+- Applied for a [Fulbright Specialist Program](https://fulbrightspecialist.worldlearning.org).
 
 ### Spring 2019
-- Travelling to Arizona-USA for a six-month visiting researcher' experience at [Wiens lab](https://www.wienslab.com/Home.html).
+- Travelling to Arizona-USA for a six-month visiting researcher' experience at the [Wiens lab](https://www.wienslab.com/Home.html).
 
 ### Winter 2019
 - Advanced course in <i>Functional Morphology: Evolution of Form and Function from Individuals to Species</i>.
@@ -166,10 +166,10 @@ share: true
 ## 2017
 
 ### Fall 2017
-- One of the 12 candidates that got selected for the PhD fellowship!
+- One of the 12 candidates that got selected for the PhD fellowships!
 
 ### Summer 2017
-- Interviewed at the University of Lisbon...
+- Interviewed at the University of Lisbon-Portugal...
 - The neotropical bats distribution maps manuscript was recommended pending revisions.
 - The neotropical bats distribution maps manuscript was 1st submitted.
 - Selected for the interview process for the FCT fellowships.
@@ -180,11 +180,11 @@ share: true
 ## 2016
 
 ### Winter 2016
-- XII National Meeting on Evolutionary Biology.
-- Helped organize the XII National Meeting on Evolutionary Biology.
+- <i>XII National Meeting on Evolutionary Biology</i>.
+- Helped organize the <i>XII National Meeting on Evolutionary Biology</i>.
 
 ### Summer 2016
-- Obtained my MSC in Applied Ecology!
+- Obtained my MSC in <i>Applied Ecology</i>!
 
 ## 2015
 
@@ -197,4 +197,4 @@ share: true
 - Poster at the <i>XIII Iberian Congress of Herpetology</i>-Portugal.
 
 ### Summer 2014
-- Graduated in Biology!
+- Graduated in <i>Biology</i>!
