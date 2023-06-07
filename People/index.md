@@ -20,7 +20,7 @@ share: true
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline">Danny Rojas</h2>
   <p align="center">
   <img src="images/Danny.jpg" width="250">  <br> <br>
-  Assistant Professor, Department of Natural Sciences and Mathematics, Pontificia Universidad Javeriana Cali (Colombia). <a href="https://rojasdanny.wordpress.com">Website</a>.
+  Assistant Professor, Department of Natural Sciences and Mathematics, Pontificia Universidad Javeriana Cali (Colombia). <a href="https://rojasdanny.wordpress.com/people/">Website</a>.
   </p>
 </div><!-- /.tile -->
 
@@ -28,7 +28,7 @@ share: true
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline">John Wiens</h2>
   <p align="center">
   <img src="images/Wiens.jpg" width="250">  <br> <br>
-  Professor, Department of Ecology & Evolutionary Biology, University of Arizona (USA). <a href="https://www.wienslab.com/Home.html">Website</a>.
+  Professor, Department of Ecology & Evolutionary Biology, University of Arizona (USA). <a href="https://eeb.arizona.edu/person/john-wiens">Website</a>.
   </p>
 </div><!-- /.tile -->
 
