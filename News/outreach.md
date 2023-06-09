@@ -21,6 +21,7 @@ share: true
 ## Media coverage on papers
 
 | # | Paper | Document | Source | Link |
+|:-:|:-:|:-:|:-:|:-:|
 | **1** | Moreira et al (2021) Biol Lett | **By Pedro Farias**. *Rare reproduction method among snakes and lizards can lead to their extinction*. | **UA Newsletter - Research** | [LINK](https://www.ua.pt/en/noticias/9/69000) |
 
 ## Public outreach
