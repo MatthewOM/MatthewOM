@@ -16,7 +16,7 @@ share: true
 
 | # | Year | Document | Source | Link |
 |:-:|:-:|:-:|:-:|:-:|
-| **1** | 2023 | **By Nicole Karlis**. *American crocodile*. | **Salon** |  |
+| **1** | 2023 | **By Johny White**. *Why a crocodile’s ‘virgin’ birth isn’t a miracle*. | **Inside Headline** | [LINK](https://insideheadline.com/why-a-crocodiles-virgin-birth-isnt-a-miracle/) |
 
 ## Media coverage on papers
 
