@@ -17,6 +17,7 @@ share: true
 ## 2023
 
 ### Summer 2023
+- Answered some questions by Nicole Karlis on the newly documented parthenogenetic crocodilian. Check it [out](https://insideheadline.com/why-a-crocodiles-virgin-birth-isnt-a-miracle/).
 - The high-altitude paper with [Danny Rojas](https://rojasdanny.wordpress.com/people/) and [Carlos Fonseca](https://www.cienciavitae.pt/portal/en/8610-54AB-874A) was accepted in <i>Ecological Research</i>.
 
 ### Spring 2023
