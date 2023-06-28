@@ -36,7 +36,7 @@ Thank you for showing interest in my research!
         <td>2023</td>
         <td><b>Moreira, MO</b>, C Fonseca & D Rojas. Potential persistence of high-mountain lizards. Accepted in <b><i>Ecological Research</i></b>.</td>
         <td>  </td>
-        <td>  </td>
+        <td> <div data-badge-type="donut" data-doi="10.1111/1440-1703.12410" data-hide-no-mentions="true" class="altmetric-embed"></div> </td>
     </tr>
         <tr>
         <td>4</td>
