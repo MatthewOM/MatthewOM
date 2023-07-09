@@ -17,6 +17,7 @@ share: true
 ## 2023
 
 ### Summer 2023
+- The high-altitude paper is available online in [Ecological Research](https://doi.org/10.1111/1440-1703.12410).
 - Answered some questions by Nicole Karlis on the newly documented parthenogenetic crocodilian. Check it [out](https://www.salon.com/2023/06/10/why-a-crocodiles-virgin-birth-isnt-a-miracle/).
 - Became a member of the <i>Portuguese Ecological Society</i>–[SPECO](https://www.speco.pt/en/).
 - The high-altitude paper with [Danny Rojas](https://rojasdanny.wordpress.com/people/) and [Carlos Fonseca](https://www.cienciavitae.pt/portal/en/8610-54AB-874A) was accepted in <i>Ecological Research</i>.
