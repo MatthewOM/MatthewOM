@@ -35,7 +35,7 @@ Thank you for showing interest in my research!
         <td>5</td>
         <td>2023</td>
         <td><b>Moreira, MO</b>, C Fonseca & D Rojas. Potential persistence of high-mountain lizards. Accepted in <b><i>Ecological Research</i></b>.</td>
-        <td>  </td>
+        <td> <a href="2023_MoreiraEtAl_EcolRes.pdf">PDF</a> </td>
         <td> <div data-badge-type="donut" data-doi="10.1111/1440-1703.12410" data-hide-no-mentions="true" class="altmetric-embed"></div> </td>
     </tr>
         <tr>
@@ -69,7 +69,7 @@ Thank you for showing interest in my research!
 </table>
 
 ## Copyright Notice
-These documents are protected by various copyright laws. However, I may distribute copies to individuals for personal, research use. Your click on any of the PDF links above constitutes your request for a personal copy of the linked article and my delivery of a personal copy. Any other use or distribution is prohibited. These are provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis.
+These documents are protected by various copyright laws. However, I may distribute copies to individuals for personal, research use. Your click on any of the PDF links above constitutes your specific request for a personal copy of the linked article and my delivery of a personal copy. Any other use or distribution is prohibited. These are provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis.
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
 <script async src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
