@@ -25,7 +25,7 @@ image:
 <div class="tile">
   <h2 class="post-title" style="background-color:Transparent; text-align: center; width: 100%;" itemprop="headline">Recent visitors!</h2>
   <p class="post-excerpt" align="center">
-<script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=0e1633&w=a&t=n&d=16cNhcaO2c5y9CILCVQbE_hmTR0J7JUjPIoMB9gcdls&co=0b4975&cmo=3acc3a&cmn=ff5353&ct=cdd4d9'></script>
+<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=16cNhcaO2c5y9CILCVQbE_hmTR0J7JUjPIoMB9gcdls&cl=ffffff&w=a"></script>
 </p>
 </div><!-- /.tile -->
 
