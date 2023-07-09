@@ -56,7 +56,7 @@ Thank you for showing interest in my research!
         <td>2</td>
         <td>2021</td>
         <td><b>Moreira, MO</b>, C Fonseca & D Rojas. Parthenogenesis is self-destructive for scaled reptiles. <b><i>Biology Letters</i></b>, 17(5): rsbl.2021.0006.</td>
-        <td> <a href="2021_MoreiraEtAl_BioLett.pdf">PDF</a> </td>
+        <td> <a href="2021_MoreiraEtAl_BiolLett.pdf">PDF</a> </td>
         <td> <div data-badge-type="donut" data-doi="10.1098/rsbl.2021.0006" data-hide-no-mentions="true" class="altmetric-embed"></div> </td>
     </tr>
     <tr>
