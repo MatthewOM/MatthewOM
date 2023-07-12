@@ -17,7 +17,7 @@ share: true
 ## 2023
 
 ### Summer 2023
-- Just found out that our physiology was used as a source for this really cool [video](https://www.youtube.com/watch?v=WI3ma7qwFns&t=1448s) by Raptor Chatter. Check it out!
+- Just found out that our physiology paper was used as a source for this really cool [video](https://www.youtube.com/watch?v=WI3ma7qwFns&t=1448s) by Raptor Chatter. Check it out!
 - The high-altitude paper is available online in [Ecological Research](https://doi.org/10.1111/1440-1703.12410).
 - Answered some questions by Nicole Karlis on the newly documented parthenogenetic crocodilian. Check it [out](https://www.salon.com/2023/06/10/why-a-crocodiles-virgin-birth-isnt-a-miracle/).
 - Became a member of the <i>Portuguese Ecological Society</i>–[SPECO](https://www.speco.pt/en/).
