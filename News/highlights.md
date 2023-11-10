@@ -16,6 +16,12 @@ share: true
 
 ## 2023
 
+### Winter 2023
+- Officially a Post-Doctoral Fellow at BIOPOLIS/CIBIO-InBIO.
+
+### Fall 2023
+- Awarded with a Post-Doctoral Fellowship under the project PLACES – "PLAnning for the Conservation of life on Earth in the light of evolution and Sustainability" at BIOPOLIS/CIBIO-InBIO.
+
 ### Summer 2023
 - Working on a Research Topic to be released at Frontiers in Amphibian and Reptile Science. Stay tuned!
 - Just found out that our physiology paper was used as a source for this really cool [video](https://www.youtube.com/watch?v=WI3ma7qwFns&t=1448s) by Raptor Chatter. Check it out!
