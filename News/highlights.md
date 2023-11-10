@@ -17,10 +17,10 @@ share: true
 ## 2023
 
 ### Winter 2023
-- Officially a Post-Doctoral Fellow at BIOPOLIS/CIBIO-InBIO.
+- Officially a Post-Doctoral Fellow at Associação BIOPOLIS.
 
 ### Fall 2023
-- Awarded with a Post-Doctoral Fellowship under the project PLACES – "PLAnning for the Conservation of life on Earth in the light of evolution and Sustainability" at BIOPOLIS/CIBIO-InBIO.
+- Awarded with a Post-Doctoral Fellowship under the project PLACES – "PLAnning for the Conservation of life on Earth in the light of evolution and Sustainability" at Associação BIOPOLIS.
 
 ### Summer 2023
 - Working on a Research Topic to be released at Frontiers in Amphibian and Reptile Science. Stay tuned!
