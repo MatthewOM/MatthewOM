@@ -20,7 +20,7 @@ share: true
 - Officially a Post-Doctoral Fellow at Associação BIOPOLIS.
 
 ### Fall 2023
-- Contributor at [BIO-SÍNTESE - Boletim Informativo Nº24](https://www.ua.pt/en/dbio/biossintese/) with the [Scientific Literacy](https://www.ua.pt/file/77547) column.
+- Contributor at [BIO-SÍNTESE - Boletim Informativo Nº24](https://www.ua.pt/en/dbio/biossintese/) with the "Scientific Literacy" column on [Snakes, lizards and amphisbaenians: excepcional organisms to study ecology and evolutionary biology](https://www.ua.pt/file/77547).
 - Awarded with a Post-Doctoral Fellowship under the project PLACES – "PLAnning for the Conservation of life on Earth in the light of evolution and Sustainability" at Associação BIOPOLIS.
 
 ### Summer 2023
