@@ -28,6 +28,6 @@ share: true
 
 | # | Year | Document | Source | Link |
 |:-:|:-:|:-:|:-:|:-:|
-| **3** | 2023 | *Rúbrica "Literacia Científica"*. | **BIO-SÍNTESE - Boletim Informativo Nº24** | [LINK](https://www.ua.pt/file/77547) |
+| **3** | 2023 | *Snakes, lizards and amphisbaenians: exceptional organisms to study ecology and evolutionary biology – "Scientific Literacy" column*. | **BIO-SÍNTESE - Boletim Informativo Nº24** | [LINK](https://www.ua.pt/file/77547) |
 | **2** | 2022 | *Phylogenies in Ecology and Evolution - Advanced Course*. | **UA Newsletter - Education and Training** | [LINK](https://www.ua.pt/en/noticias/8/74482) |
 | **1** | 2021 | *Virgin-births may compromise species lifespan in the long term: a tale from lizards and snakes*. | **Nature Ecology & Evolution** | [LINK](https://go.nature.com/3f1dqtz) |
