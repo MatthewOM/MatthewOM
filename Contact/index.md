@@ -14,8 +14,8 @@ ads: false
 <p align="center">
   <img src="images/me_circular.jpg" width="50%" height="50%">  <br><br>
   <b>Matthew Owen Moreira</b><br>
-  PhD, University of Aveiro (Portugal)<br> 
-  Email: <a href="mailto:matthew.moreira@ua.pt">matthew.moreira@ua.pt</a><br>  
+  Post-Doctoral Fellow @ Associação BIOPOLIS (Portugal)<br> 
+  Email: <a href="mailto:matthewmoreira9@hotmail.com">matthewmoreira9"@"hotmail.com</a><br>  
   Twitter: <a href="https://twitter.com/MatthewG07">@MatthewG07</a><br/>
   Linkedin: <a href="https://www.linkedin.com/in/MatthewOM93/">Matthew Owen Moreira</a><br/>
   Skype: live:matthewmoreira9<br/>
