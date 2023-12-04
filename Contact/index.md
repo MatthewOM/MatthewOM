@@ -16,5 +16,5 @@ ads: false
   <b>Matthew Owen Moreira</b><br>
   Post-Doctoral Fellow @ Associação BIOPOLIS (Portugal)<br> 
   <a href="mailto:matthewmoreira9@hotmail.com">matthewmoreira9 "at" hotmail.com</a><br>  
-  <a href="https://twitter.com/MatthewG07"> &nbsp;Twitter$~$ </a> <a href="https://www.linkedin.com/in/MatthewOM93/"> Linkedin </a> <a href="https://www.researchgate.net/profile/Matthew-Moreira"> ResearchGate </a>
+  <a href="https://twitter.com/MatthewG07">&nbsp;Twitter&nbsp;</a> <a href="https://www.linkedin.com/in/MatthewOM93/">&nbsp;Linkedin&nbsp;</a> <a href="https://www.researchgate.net/profile/Matthew-Moreira">&nbsp;ResearchGate&nbsp;</a>
 </p>
