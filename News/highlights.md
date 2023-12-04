@@ -17,11 +17,11 @@ share: true
 ## 2023
 
 ### Winter 2023
-- Officially a Post-Doctoral Fellow at [Associação BIOPOLIS / CIBIO-InBIO](https://www.biopolis.pt/en/).
+- Officially a Post-Doctoral Fellow at [Associação BIOPOLIS](https://www.biopolis.pt/en/).
 
 ### Fall 2023
 - Contributor at [BIO-SÍNTESE - Boletim Informativo Nº24](https://www.ua.pt/en/dbio/biossintese/) with the "Scientific Literacy" column on [Snakes, lizards and amphisbaenians: exceptional organisms to study ecology and evolutionary biology](https://www.ua.pt/file/77547).
-- Awarded with a Post-Doctoral Fellowship under the project PLACES – "PLAnning for the Conservation of life on Earth in the light of evolution and Sustainability" at Associação BIOPOLIS | CIBIO-InBIO.
+- Awarded with a Post-Doctoral Fellowship under the project PLACES – "PLAnning for the Conservation of life on Earth in the light of evolution and Sustainability" at Associação BIOPOLIS.
 
 ### Summer 2023
 - Working on a Research Topic to be released at Frontiers in Amphibian and Reptile Science. Stay tuned!
