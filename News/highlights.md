@@ -17,7 +17,7 @@ share: true
 ## 2023
 
 ### Winter 2023
-- Officially a Post-Doctoral Fellow at [Associação BIOPOLIS | CIBIO-InBIO](https://www.biopolis.pt/en/).
+- Officially a Post-Doctoral Fellow at [Associação BIOPOLIS / CIBIO-InBIO](https://www.biopolis.pt/en/).
 
 ### Fall 2023
 - Contributor at [BIO-SÍNTESE - Boletim Informativo Nº24](https://www.ua.pt/en/dbio/biossintese/) with the "Scientific Literacy" column on [Snakes, lizards and amphisbaenians: exceptional organisms to study ecology and evolutionary biology](https://www.ua.pt/file/77547).
