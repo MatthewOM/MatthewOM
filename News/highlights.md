@@ -20,7 +20,7 @@ share: true
 - Officially a Post-Doctoral Fellow at [Associação BIOPOLIS](https://www.biopolis.pt/en/).
 
 ### Fall 2023
-- Contributor at [BIO-SÍNTESE - Boletim Informativo Nº24](https://www.ua.pt/en/dbio/biossintese/) with the "Scientific Literacy" column on [Snakes, lizards and amphisbaenians: exceptional organisms to study ecology and evolutionary biology](https://www.ua.pt/file/77547).
+- Contributor at [BIO-SÍNTESE – Boletim Informativo Nº24](https://www.ua.pt/en/dbio/biossintese/) with the "Scientific Literacy" column on [Snakes, lizards and amphisbaenians: exceptional organisms to study ecology and evolutionary biology](https://www.ua.pt/file/77547).
 - Awarded with a Post-Doctoral Fellowship under the project PLACES – "PLAnning for the Conservation of life on Earth in the light of evolution and Sustainability" at Associação BIOPOLIS.
 
 ### Summer 2023
@@ -64,7 +64,7 @@ share: true
 ### Spring 2022
 - Invited talk at the <i>UVS Talks</i>-Portugal.
 - Lectured, together with [John Wiens](https://eeb.arizona.edu/person/john-wiens), the advanced course in [Phylogenies in Ecology and Evolution](https://www.ua.pt/en/noticias/8/74482).
-- Helped on the ellaboration of a project for the <i>Call for R&D Projects in All Scientific Domains - 2022</i>, together with [Eduardo Ferreira](https://www.cienciavitae.pt/portal/en/581B-7ED8-3A0F).
+- Helped on the ellaboration of a project for the <i>Call for R&D Projects in All Scientific Domains – 2022</i>, together with [Eduardo Ferreira](https://www.cienciavitae.pt/portal/en/581B-7ED8-3A0F).
 
 ### Winter 2022
 - The <i>ES-sim</i>-GLM paper is available online in [Evolutionary Biology](https://doi.org/10.1007/s11692-021-09557-7).
