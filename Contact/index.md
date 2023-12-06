@@ -16,6 +16,6 @@ ads: false
   <b>Matthew Owen Moreira</b><br>
   Post-Doctoral Fellow<br>
   Associação BIOPOLIS | CIBIO-InBIO<br> 
-  matthewmoreira9 "at" hotmail.com<br>
+  matthew.moreira "at" cibio.up.pt<br>
   <a href="https://twitter.com/MatthewG07">&nbsp;Twitter&nbsp;</a> <a href="https://www.linkedin.com/in/MatthewOM93/">&nbsp;Linkedin&nbsp;</a> <a href="https://www.researchgate.net/profile/Matthew-Moreira">&nbsp;ResearchGate&nbsp;</a>
 </p>
