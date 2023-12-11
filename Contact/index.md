@@ -17,5 +17,5 @@ ads: false
   Post-Doctoral Fellow<br>
   <a href = "https://cibio.up.pt/en/people/details/matthew-moreira/">Associação BIOPOLIS | CIBIO-InBIO</a><br> 
   matthew.moreira "at" cibio.up.pt<br>
-  <a href="https://twitter.com/MatthewG07">&nbsp;Twitter&nbsp;</a> <a href="https://www.linkedin.com/in/MatthewOM93/">&nbsp;Linkedin&nbsp;</a> <a href="https://www.researchgate.net/profile/Matthew-Moreira">&nbsp;ResearchGate&nbsp;</a>
+  &nbsp;<a href="https://twitter.com/MatthewG07">Twitter</a>&nbsp;<a href="https://www.linkedin.com/in/MatthewOM93/">&nbsp;Linkedin&nbsp;</a> <a href="https://www.researchgate.net/profile/Matthew-Moreira">&nbsp;ResearchGate&nbsp;</a>
 </p>
