@@ -17,6 +17,7 @@ share: true
 ## 2023
 
 ### Winter 2023
+- Resubmitted the Grinnellian niche manuscript after minor revisions.
 - Officially a Post-Doctoral Fellow at [Associação BIOPOLIS](https://cibio.up.pt/en/people/details/matthew-moreira/).
 
 ### Fall 2023
