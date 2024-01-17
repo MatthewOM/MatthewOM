@@ -24,6 +24,7 @@ share: true
 ### Winter 2023
 - Resubmitted the Grinnellian niche manuscript after minor revisions.
 - Officially a Post-Doctoral Fellow at [Associação BIOPOLIS](https://cibio.up.pt/en/people/details/matthew-moreira/).
+- No luck with the CEEC application.
 
 ### Fall 2023
 - Contributor at [BIO-SÍNTESE – Boletim Informativo Nº24](https://www.ua.pt/en/dbio/biossintese/) with the "Scientific Literacy" column on [Snakes, lizards and amphisbaenians: exceptional organisms to study ecology and evolutionary biology](https://www.ua.pt/file/77547).
