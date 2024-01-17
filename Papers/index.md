@@ -31,7 +31,15 @@ Thank you for showing interest in my research!
         <td><b>Link</b></td>
         <td><b>Coverage</b></td>
     </tr>
-          <tr>
+        <tr>
+        <td>6</td>
+        <td>2024</td>
+        <td><b>Moreira, MO</b>, JJ Wiens, C Fonseca & D Rojas. Climatic-niche breadth, niche position, and
+speciation in lizards and snakes. <b><i>Journal of Biogeography</i></b>, In press.</td>
+        <td>  </td>
+        <td>  </td>
+    </tr>
+        <tr>
         <td>5</td>
         <td>2023</td>
         <td><b>Moreira, MO</b>, C Fonseca & D Rojas. Potential persistence of high-mountain lizards. <b><i>Ecological Research</i></b>, 38(5): 676-689.</td>
