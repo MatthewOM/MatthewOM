@@ -48,8 +48,6 @@ share: true
   </p>
 </div><!-- /.tile -->
 
-</div><!-- /.tiles -->
-
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.cienciavitae.pt/portal/en/8610-54AB-874A">Carlos Fonseca</a></h2>
   <p align="center">
@@ -57,5 +55,7 @@ share: true
   Associate Professor, Department of Biology, University of Aveiro (Portugal).
   </p>
 </div><!-- /.tile -->
+
+</div><!-- /.tiles -->
 
  <br> <br> <br> <br>
