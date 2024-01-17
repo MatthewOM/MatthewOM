@@ -45,7 +45,7 @@ speciation in lizards and snakes. <b><i>Journal of Biogeography</i></b>, In pres
         <td>5</td>
         <td>2023</td>
         <td><b>Moreira, MO</b>, C Fonseca & D Rojas. Potential persistence of high-mountain lizards. <b><i>Ecological Research</i></b>, 38(5): 676-689.</td>
-        <td> <a href=https://doi.org/10.1111/1440-1703.12410>DOI</a> </td>
+        <td> [DOI](https://doi.org/10.1111/1440-1703.12410) </td>
         <td> <a href="2023_MoreiraEtAl_EcolRes.pdf">PDF</a> </td>
         <td> <div data-badge-type="donut" data-doi="10.1111/1440-1703.12410" data-hide-no-mentions="true" class="altmetric-embed"></div> </td>
     </tr>
