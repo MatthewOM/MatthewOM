@@ -18,8 +18,8 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title" style="background-color:Transparent; text-align: center; width: 25%;" itemprop="headline"></h2>
-  <p class="post-excerpt" align="center" style="width: 25%;"></p> 
+  <h2 class="post-title" style="background-color:Transparent; text-align: center; width: 5%;" itemprop="headline"></h2>
+  <p class="post-excerpt" align="center" style="width: 5%;"></p> 
 </div><!-- /.tile -->
 
 <div class="tile">
