@@ -17,8 +17,6 @@ image:
   <p class="post-excerpt" align="center"> Post-Doctoral Fellow at <a href="https://cibio.up.pt/en/people/details/matthew-moreira/">Associação BIOPOLIS | CIBIO-InBIO</a> (Portugal). I have also established international networks from previous experiences as a visiting researcher with the <a href="https://rojasdanny.wordpress.com/people/">Rojas Lab</a> at the Pontifica Universidad Javeriana Cali (Colombia) and with the <a href="https://www.wienslab.com/Publications.html">Wiens Lab</a> at the University of Arizona (USA).</p>
 </div><!-- /.tile -->
 
-<br>
-
 <div class="tile">
   <h2 class="post-title" style="background-color:Transparent; text-align: center; width: 170%;" itemprop="headline">Recent visitors!</h2>
   <p class="post-excerpt" align="center" style="width: 170%;">
