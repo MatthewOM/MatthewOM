@@ -43,7 +43,7 @@ share: true
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://cibio.up.pt/en/people/details/angelica-crottini/">Angelica Crottini</a></h2>
   <p align="center">
-  <img src="images/placeholder.jpg" width="250">  <br> <br>
+  <img src="images/Angelica.jpg" width="250">  <br> <br>
   Auxiliary Researcher, BIOPOLIS | CIBIO-InBIO, Campus Universitário de Vairão (Portugal).
   </p>
 </div><!-- /.tile -->
