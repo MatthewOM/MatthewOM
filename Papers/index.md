@@ -38,8 +38,8 @@ Thank you for showing interest in my research!
         <td><b>Moreira, MO</b>, JJ Wiens, C Fonseca & D Rojas. Climatic-niche breadth, niche position, and
 speciation in lizards and snakes. <b><i>Journal of Biogeography</i></b>, In press.</td>
         <td> <a href="https://doi.org/10.1111/jbi.14802">DOI</a> </td>
-        <td>  </td>
-        <td>  </td>
+        <td> <div data-badge-type="donut" data-doi="10.1111/jbi.14802" data-hide-no-mentions="true" class="altmetric-embed"></div> </td>
+        <td> <span class="__dimensions_badge_embed__" data-doi="10.1111/jbi.14802" data-style="small_circle" data-hide-zero-citations="true"> </td>
     </tr>
         <tr>
         <td>5</td>
