@@ -17,6 +17,7 @@ share: true
 ## 2024
 
 ### Winter 2024
+- The Grinnellian niche paper is available online in [Journal of Biogeography](https://doi.org/10.1111/jbi.14802).
 - The Grinnellian niche paper with [John Wiens](https://eeb.arizona.edu/person/john-wiens), [Danny Rojas](https://rojasdanny.wordpress.com/people/) and [Carlos Fonseca](https://www.cienciavitae.pt/portal/en/8610-54AB-874A) was accepted in <i>Journal of Biogeography</i>.
 
 ## 2023
