@@ -18,9 +18,16 @@ image:
 </div><!-- /.tile -->
 
 <div class="tile">
-  <h2 class="post-title" style="background-color:Transparent; text-align: center; width: 170%;" itemprop="headline">Recent visitors!</h2>
-  <p class="post-excerpt" align="center" style="width: 170%;">
+  <h2 class="post-title" style="background-color:Transparent; text-align: center; width: 100%;" itemprop="headline">Recent visitors!</h2>
+  <p class="post-excerpt" align="center" style="width: 100%;">
 <script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=16cNhcaO2c5y9CILCVQbE_hmTR0J7JUjPIoMB9gcdls&cl=ffffff&w=a"></script>
+</p>
+</div><!-- /.tile -->
+
+<div class="tile">
+  <h2 class="post-title" style="background-color:Transparent; text-align: center; width: 100%;" itemprop="headline">Recent visitors!</h2>
+  <p class="post-excerpt" align="center" style="width: 100%;">
+<a class="twitter-timeline" href="https://twitter.com/MatthewG07">Tweets by MatthewG07</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </p>
 </div><!-- /.tile -->
 
