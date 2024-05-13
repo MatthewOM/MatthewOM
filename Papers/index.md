@@ -83,7 +83,25 @@ speciation in lizards and snakes. <b><i>Journal of Biogeography</i></b>, 51(6): 
     </tr>
 </table>
 
+## Covers
+
+<table>
+    <tr>
+        <td><b>#</b></td>
+        <td><b>Year</b></td>
+        <td><b>Journal</b></td>
+        <td><b>Link</b></td>
+    </tr>
+        <tr>
+        <td>1</td>
+        <td>2024</td>
+        <td><b><i>Journal of Biogeography</i></b>, 51: i-i.</td>
+        <td> <a href="https://doi.org/10.1111/jbi.14650">DOI</a> </td>
+    </tr>
+</table>
+
 ## Copyright Notice
+
 These documents are protected by various copyright laws. However, I may distribute copies to individuals for personal, research use. Your click on any of the PDF links above constitutes your specific request for a personal copy of the linked article and my delivery of a personal copy. Any other use or distribution is prohibited. These are provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis.
 
 <script type='text/javascript' src='https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js'></script>
