@@ -36,7 +36,7 @@ Thank you for showing interest in my research!
         <td>6</td>
         <td>2024</td>
         <td><b>Moreira, MO</b>, JJ Wiens, C Fonseca & D Rojas. Climatic-niche breadth, niche position, and
-speciation in lizards and snakes. <b><i>Journal of Biogeography</i></b>, 00: 1-13.</td>
+speciation in lizards and snakes. <b><i>Journal of Biogeography</i></b>, 51(6): 969-981.</td>
         <td> <a href="https://doi.org/10.1111/jbi.14802">DOI</a>&nbsp;&nbsp;&nbsp;<a href="2024_MoreiraEtAl_JBI.pdf">PDF</a> </td>
         <td> <div data-badge-type="donut" data-doi="10.1111/jbi.14802" data-hide-no-mentions="true" class="altmetric-embed"></div> </td>
         <td> <span class="__dimensions_badge_embed__" data-doi="10.1111/jbi.14802" data-style="small_circle" data-hide-zero-citations="true" data-legend="hover-left"></span> </td>
