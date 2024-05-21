@@ -99,7 +99,7 @@ speciation in lizards and snakes. <b><i>Journal of Biogeography</i></b>, 51(6): 
         <td>2024</td>
         <td><b><i>Journal of Biogeography</i></b></td>
         <td>51(6)</td>
-        <td> <img src="JBI_cover.jpg" width="50"> </td>
+        <td> <img src="JBI_cover.jpg" width="100"> </td>
         <td> <a href="https://doi.org/10.1111/jbi.14650">DOI</a> </td>
     </tr>
 </table>
