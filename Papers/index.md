@@ -30,7 +30,7 @@ Thank you for showing interest in my research!
         <td><b>Paper</b></td>
         <td><b>Links</b></td>
         <td><b>Coverage</b></td>
-        <td><b>Citation</b></td>
+        <td><b>Citations</b></td>
     </tr>
         <tr>
         <td>6</td>
