@@ -68,9 +68,11 @@ share: true
 
  <br> <br> <br> <br>
 
-## Students
+ <br> <br> <br> <br>
 
- <div class="tiles">
+# Students
+
+<div class="tiles">
 
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.researchgate.net/profile/Mafalda-Restelli-2">Mafalda Restelli</a></h2>
