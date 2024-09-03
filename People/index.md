@@ -14,7 +14,7 @@ share: true
 
 
 
-<div class="tiles" style="margin-bottom: 20px;">
+<div class="tiles">
 
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://rojasdanny.wordpress.com/people/">Danny Rojas</a></h2>
@@ -66,11 +66,13 @@ share: true
 
 </div><!-- /.tiles -->
 
+<div style="height: 20px;"></div>
+
 <br> <br> <br> <br>
 
 # Students
 
-<div class="tiles" style="margin-bottom: 20px;">
+<div class="tiles">
 
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.researchgate.net/profile/Mafalda-Restelli-2">Mafalda Restelli</a></h2>
