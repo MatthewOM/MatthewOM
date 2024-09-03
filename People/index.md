@@ -64,11 +64,14 @@ share: true
   </p>
 </div><!-- /.tile -->
 
+<!-- Blank Tile -->
+<div class="tile" style="height: 250px;"> <!-- Adjust height as needed -->
+
+</div><!-- /.tile -->
+
 </div><!-- /.tiles -->
 
-<br>
-
-<hr style="margin: 40px 0; border: 1px solid #ccc;">
+<br> <br>
 
 # Students
 
