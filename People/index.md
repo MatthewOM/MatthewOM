@@ -66,9 +66,7 @@ share: true
 
 </div><!-- /.tiles -->
 
- <br> <br> <br> <br>
-
- <br> <br> <br> <br>
+<div style="page-break-after: always;"></div>
 
 # Students
 
