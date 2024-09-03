@@ -67,3 +67,17 @@ share: true
 </div><!-- /.tiles -->
 
  <br> <br> <br> <br>
+
+ <div class="tiles">
+
+<div class="tile">
+  <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.researchgate.net/profile/Mafalda-Restelli-2">Mafalda Restelli</a></h2>
+  <p align="center">
+  <img src="images/placeholder.jpg" width="250">  <br> <br>
+  PhD student, BIOPOLIS | CIBIO-InBIO, Campus Universitário de Vairão (Portugal).
+  </p>
+</div><!-- /.tile -->
+
+</div><!-- /.tiles -->
+
+ <br> <br> <br> <br>
