@@ -68,6 +68,8 @@ share: true
 
 <br>
 
+<hr style="margin: 40px 0; border: 1px solid #ccc;">
+
 # Students
 
 <div class="tiles">
