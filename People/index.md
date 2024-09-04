@@ -28,7 +28,7 @@ share: true
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://eeb.arizona.edu/person/john-wiens">John Wiens</a></h2>
   <p align="center">
   <img src="images/Wiens.jpg" width="250">  <br> <br>
-  Professor, Department of Ecology & Evolutionary Biology, University of Arizona (USA).
+  Full Professor, Department of Ecology & Evolutionary Biology, University of Arizona (USA).
   </p>
 </div><!-- /.tile -->
 
@@ -60,7 +60,7 @@ share: true
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.cienciavitae.pt/portal/en/8610-54AB-874A">Carlos Fonseca</a></h2>
   <p align="center">
   <img src="images/Carlos.jpg" width="250">  <br> <br>
-  Associate Professor, Department of Biology, University of Aveiro (Portugal).
+  Full Professor, Department of Biology, University of Aveiro (Portugal).
   </p>
 </div><!-- /.tile -->
 
