@@ -65,10 +65,10 @@ share: true
 </div><!-- /.tile -->
 
 <!-- Blank Tile -->
-<div class="tile" style="height: 400px;"> <!-- Adjust height as needed -->
+<div class="tile" style="height: 450px;"> <!-- Adjust height as needed -->
 </div><!-- /.tile -->
 <!-- Blank Tile -->
-<div class="tile" style="height: 400px;"> <!-- Adjust height as needed -->
+<div class="tile" style="height: 450px;"> <!-- Adjust height as needed -->
 </div><!-- /.tile -->
 
 </div><!-- /.tiles -->
