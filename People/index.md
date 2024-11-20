@@ -13,7 +13,7 @@ share: true
 ---
 
 
-# Collaborators
+## Collaborators
 
 <div class="tiles">
 
@@ -76,7 +76,7 @@ share: true
 
 <br> <br>
 
-# Students
+## Students
 
 <div class="tiles">
 
