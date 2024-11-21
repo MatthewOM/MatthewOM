@@ -13,7 +13,7 @@ share: true
 ---
 
 
-## Collaborators
+### Collaborators
 
 <div class="tiles">
 
@@ -76,14 +76,14 @@ share: true
 
 <br> <br>
 
-## Students
+### Students
 
 <div class="tiles">
 
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.cibio.up.pt/en/people/details/maria-joao-paul/">Maria João Paúl</a></h2>
   <p align="center">
-  <img src="images/placeholder.jpg" width="250">  <br> <br>
+  <img src="images/Maria.jpg" width="250">  <br> <br>
   PhD student, BIOPOLIS | CIBIO-InBIO, Campus Universitário de Vairão (Portugal).
   </p>
 </div><!-- /.tile -->
@@ -91,7 +91,7 @@ share: true
 <div class="tile">
   <h2 class="post-title"  style="background-color:lightseagreen; text-align: center; width: 100%;" itemprop="headline"><a href="https://www.cibio.up.pt/en/people/details/mafalda-restelli/">Mafalda Restelli</a></h2>
   <p align="center">
-  <img src="images/placeholder.jpg" width="250">  <br> <br>
+  <img src="images/Mafalda.jpg" width="250">  <br> <br>
   PhD student, BIOPOLIS | CIBIO-InBIO, Campus Universitário de Vairão (Portugal).
   </p>
 </div><!-- /.tile -->
