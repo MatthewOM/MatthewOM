@@ -16,6 +16,12 @@ share: true
 
 ## 2024
 
+### Winter 2024
+- Poster at the <i>TiBE – Ecology and Conservation in the Afrotropics</i>-Portugal.
+
+### Fall 2024
+- Submitted my CEEC (7th edition) application.
+
 ### Spring 2024
 - On the cover of [Journal of Biogeography](https://doi.org/10.1111/jbi.14650) volume 51, issue 6!
 - The website for our Project PLACES is now [online](https://projectplaces.pt).
@@ -23,6 +29,7 @@ share: true
 ### Winter 2024
 - The Grinnellian niche paper is available online in [Journal of Biogeography](https://doi.org/10.1111/jbi.14802).
 - The Grinnellian niche paper with [John Wiens](https://eeb.arizona.edu/person/john-wiens), [Danny Rojas](https://rojasdanny.wordpress.com/people/) and [Carlos Fonseca](https://www.cienciavitae.pt/portal/en/8610-54AB-874A) was accepted in <i>Journal of Biogeography</i>.
+- Invited talk at the <i>Regular Seminars in Ecology & Evolution</i>–Portugal. 
 
 ## 2023
 
